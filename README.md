@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @medina-monica
-- 👀 I’m interested in data analysis and created digit resources for K-12 teachers.
-- 🌱 I’m currently learning data analsis, html css, and javascript.
+- 👀 I’m interested in data analytics and created digit resources for K-12 teachers.
+- 🌱 I’m currently learning data analysis, html css, and javascript.
 - 💞️ I’m looking to collaborate on digital application for K-12 teachers.
 - 📫 How to reach me ...
 
